@@ -1,0 +1,1809 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-decoration:   (property)"
+			],
+			[
+				"acti",
+				"activity-feed"
+			],
+			[
+				"lef",
+				"left-column"
+			],
+			[
+				"yello",
+				"yellow-paper"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"clear",
+				"pie-clearfix"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"project",
+				"project-details-top-part"
+			],
+			[
+				"blue",
+				"blue-gradient"
+			],
+			[
+				"facebook",
+				"facebook-feed-right"
+			],
+			[
+				"defaul",
+				"default-border-radius"
+			],
+			[
+				"ligh",
+				"light-yellow-color"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"sp",
+				"splash-page"
+			],
+			[
+				"dis",
+				"display-box"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"bord",
+				"border-left"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"defa",
+				"default-border-radius"
+			],
+			[
+				"splash",
+				"splash-footer"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"img",
+				"img\tImage - Placeholder"
+			],
+			[
+				"content",
+				"content-right-col"
+			],
+			[
+				"spn",
+				"sponsors"
+			],
+			[
+				"tc",
+				"table-cell"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"sr",
+				"src"
+			],
+			[
+				"wide-sma",
+				"wide-smartphone"
+			],
+			[
+				"wid",
+				"wide-smartphone"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"no-p",
+				"no-repeat"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"lis",
+				"list-style-position"
+			],
+			[
+				"se",
+				"selected"
+			],
+			[
+				"first",
+				"first-column"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"but",
+				"button-color"
+			],
+			[
+				"search",
+				"search-doctor-form"
+			],
+			[
+				"sty",
+				"stylesheet\t@=stylesheet"
+			],
+			[
+				"verti",
+				"vertical-align"
+			],
+			[
+				"light",
+				"light-blue-color"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"wide",
+				"wide-smartphone"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"al",
+				"alt\t@alt"
+			],
+			[
+				"bor",
+				"border-radius-default"
+			],
+			[
+				"black",
+				"black-color"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"border-bottom",
+				"border-bottom-color"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"orange",
+				"orange-color"
+			],
+			[
+				"list-st",
+				"list-style-position"
+			],
+			[
+				"lig",
+				"light-blue-color"
+			],
+			[
+				"t",
+				"tbody\tTag"
+			],
+			[
+				"col",
+				"colgroup\tTag"
+			],
+			[
+				"smar",
+				"smartphone-landscape"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"white",
+				"white-color"
+			],
+			[
+				"ora",
+				"orange-gradient"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"below",
+				"below-wide-smartphone"
+			],
+			[
+				"lt-ie",
+				"lt-ie9"
+			],
+			[
+				"dark-",
+				"dark-blue-color"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"dar",
+				"dark-blue-color"
+			],
+			[
+				"res",
+				"reset-list"
+			],
+			[
+				"fon",
+				"font-set"
+			],
+			[
+				"lt",
+				"lt-ie10"
+			],
+			[
+				"table",
+				"tablet"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "brain-speakers-schedule.php",
+			"settings":
+			{
+				"buffer_size": 7434,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "brain-speakers-schedule.html",
+			"settings":
+			{
+				"buffer_size": 11083,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scss/main.scss",
+			"settings":
+			{
+				"buffer_size": 17768,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/vendor/grid.js",
+			"settings":
+			{
+				"buffer_size": 14407,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"color",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"download",
+				"SFTP: Download File"
+			],
+			[
+				"slec colo",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"brows",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"donload",
+				"SFTP: Download File"
+			],
+			[
+				"downlo",
+				"SFTP: Download File"
+			],
+			[
+				"browse",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"bro",
+				"SFTP: Browse Server…"
+			],
+			[
+				"brwo",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"brow",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"default",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"fetch",
+				"Fetch: File"
+			],
+			[
+				"enti",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"fet",
+				"Fetch: Package"
+			],
+			[
+				"upload",
+				"SFTP: Upload File"
+			],
+			[
+				"sftp",
+				"SFTP: Setup Server…"
+			],
+			[
+				"show",
+				"SFTP: Show Panel"
+			],
+			[
+				"downl",
+				"SFTP: Download File"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sync",
+				"SFTP: Sync Remote -> Local…"
+			],
+			[
+				"upoad",
+				"SFTP: Upload File"
+			],
+			[
+				"sync bot",
+				"SFTP: Sync Both Directions…"
+			],
+			[
+				"sync remot",
+				"SFTP: Sync Remote -> Local…"
+			],
+			[
+				"sync remo",
+				"SFTP: Sync Remote -> Local…"
+			],
+			[
+				"theme",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"quick",
+				"Quick Look"
+			],
+			[
+				"curso",
+				"CursorRuler: Toggle Enabled/Disabled"
+			],
+			[
+				"find",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"control",
+				"Control+Scroll: fast scroll"
+			],
+			[
+				"sort",
+				"Sort Tabs: Menu"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"k",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"find key",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"duplic",
+				"File: Duplicate"
+			],
+			[
+				"dupli",
+				"File: Duplicate"
+			],
+			[
+				"duplica",
+				"File: Duplicate"
+			],
+			[
+				"du",
+				"File: Duplicate"
+			],
+			[
+				"cop",
+				"File: Copy Path"
+			],
+			[
+				"copy",
+				"File: Copy Path"
+			],
+			[
+				"findkey",
+				"FindKeyConflicts: All Key Maps to Quick Panel"
+			],
+			[
+				"select",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"selec",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"select ",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"select color",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"colorsch",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"open fil",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"file sea",
+				"File: Search Files"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"search",
+				"File: Search Files"
+			],
+			[
+				"create",
+				"Create file from Template"
+			],
+			[
+				"file from",
+				"Create file from Template"
+			],
+			[
+				"fe",
+				"Fetch: File"
+			],
+			[
+				"fetc",
+				"Fetch: File"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"keycon",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"keyc",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"",
+				"Convert Case: Lower Case"
+			],
+			[
+				"enal",
+				"Package Control: Enable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"path",
+				"File: Copy Path as URI"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"findke",
+				"FindKeyConflicts: All Key Maps to Quick Panel"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jyyoi/Dropbox/Job/Brain/04 development/source"
+	],
+	"file_history":
+	[
+		"/Users/jyyoi/Dropbox/Job/Brain/04 development/source/brain-gallery.php",
+		"/Users/jyyoi/Dropbox/Job/Brain/04 development/source/brain-director.html",
+		"/Users/jyyoi/Dropbox/Job/Brain/04 development/source/brain.sublime-project",
+		"/Users/jyyoi/Dropbox/Job/Brain/04 development/source/contact-us.php",
+		"/Users/jyyoi/Dropbox/Job/Brain/04 development/source/index.html",
+		"/Users/jyyoi/Dropbox/Job/Brain/04 development/source/index.php",
+		"/Users/jyyoi/Dropbox/Job/Brain/04 development/source/whats-brain.html",
+		"/Users/jyyoi/Dropbox/Job/Brain/04 development/source/whats-brain.php",
+		"/Users/jyyoi/Dropbox/Job/Brain/04 development/source/brain-director.php",
+		"/Users/jyyoi/Dropbox/Job/Brain/04 development/source/brain-gallery-details.html",
+		"/Users/jyyoi/Dropbox/Job/Brain/04 development/source/brain-gallery-details.php",
+		"/Users/jyyoi/Dropbox/Job/Brain/04 development/source/brain-gallery.html",
+		"/Users/jyyoi/Dropbox/Job/Brain/04 development/source/brain-list.html",
+		"/Users/jyyoi/Dropbox/Job/Brain/04 development/source/brain-list.php",
+		"/Users/jyyoi/Dropbox/Job/Brain/04 development/source/brain-speakers-schedule.html",
+		"/Users/jyyoi/Dropbox/Job/Brain/04 development/source/brain-speakers-schedule.php",
+		"/Users/jyyoi/Dropbox/Job/Brain/04 development/source/contact-us.html",
+		"/Users/jyyoi/Dropbox/Job/Brain/04 development/source/scss/main.scss",
+		"/Users/jyyoi/Desktop/php.ini",
+		"/Users/jyyoi/Library/Caches/Cleanup At Startup/Transmit/C415F447-0FA7-4F20-B91F-AD59A6072289/styles.css",
+		"/Users/jyyoi/Desktop/untitled folder/wp-config.php",
+		"/Users/jyyoi/Library/Caches/Cleanup At Startup/Transmit/EA378AEA-C1E0-4B0A-A02A-0932163A30D2/index.php",
+		"/Users/jyyoi/Library/Caches/Cleanup At Startup/Transmit/C4B2A507-ACAC-4E86-B20A-95CFE30CEEB5/wp-config.php",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/title.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/is-an-roh-in-thailand-really-a-tax-shelter.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/preeyanuch.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/corporate-commercial.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/private-client-practice.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/tax.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/preeyanuch.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/chonmapoom.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/raising-education-results-in-rising-bureaucracy.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/title-2.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/title-3.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/asean-economic-community-aec.html",
+		"/Users/Jyyoi/Dropbox/Job/i-Migration/website - update v.4/i-migration.sublime-project",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/virtual-tour.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/thanaphon.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/practices.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights-2.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights-3.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/anyarin.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/aphiradee.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/apiwat.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/atitporn.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/chansilp.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/chatchawarl.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/chonmapoom.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/hathaiphat.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/jan.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/josephine.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/kesiri.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/kritsanapong.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/lalada.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/montri.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/nalanta.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/naruemon.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/nawin.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/nuntana.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/nuntawid.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/phungphong.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/pimonchaya.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/prapanpong.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/rachaneekorn.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/ratirat.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/sahawat.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/sarot.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/suchat.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/tassanee.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/thanaphon.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/thapaphon.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/wanchai.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/witida.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/lawyers/wutthilers.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/alternative-to-foreign-interest-buying-condos-in-thailand.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/competition-law-for-ceos-the-salary-mans-dream-and-the-legal-ball-and-chain.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/difficulties-in-establishing-ngos-in-thailand-observations-proposals-for-law-reform.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/foreign-defendants-bail-in-thai-criminal-courts-and-implications-on-travelling-businesspeople.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/foreigners-in-the-thai-courts.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/getting-closer-to-specialized-court.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/legal-dimensions-of-automatic-stay.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/legal-protections-against-cunning-evasions-and-delays-of-judgement-enforcement-selected-issue-for-consideration.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/making-foreign-investment-in-retail-a-reality-in-thailand.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/new-work-permit-law-deportation-fund.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/note-on-late-completion-of-construction-under-thai-law.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/patent-application-through-pct-in-thailand.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/personal-injury-claim-from-thai-law-perspectives.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/presumption-of-innocence-a-sea-change-in-directors-joint-criminal-liability-with-companies.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/procedures-to-seize-a-ship-to-satisfy-a-debt-in-thailand.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/re-examining-the-application-of-the-un-convention-on-contracts.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/right-of-suit-by-a-consumer-protection-association-under-thai-law.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/right-of-suit-under-thai-cogsa-some-salient-legal-problems.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/significant-roles-of-property-valuers-in-modern-legal-transaction-some-suggestions-of-a-practitioner.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sponsor-companies-and-their-foreign-employees-overcoming-challanges-with-work-permits-and-tax-collection-in-thailand.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/summer-internship-program-at-csbc-law-offices-perspectives-from-an-american-law-student.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/terrorism-and-its-effects-on-insurance-observations-from-a-thai-law-perspective.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/thai-nominee-shareholders-aftermath-problem.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/thai-permanent-residency.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/the-choice-or-application-of-substantive-law-in-disputes-accepted-for-thai-arbitration.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/untold-story-about-civil-partners-in-thailand.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/amorn.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/anyarin.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/aphiradee.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/arbitration.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/atthawut.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/bankruptcy-re-organization.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/ceos-index.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/chansilp.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/chatchawarl.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/foreign-business-law.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/hathaiphat.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/immigration.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/insurance.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/intern-index.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/international-sale-of-goods.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/ip-it.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/labor-foreign-employment.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/litigation.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/maritime.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/nalanta.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/nawin.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/phungphong.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/prapanpong.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/property-construction.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/rachaneekorn.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/ratirat.html",
+		"/Users/Jyyoi/Dropbox/Job/CSBC/2012 Redesign/web/thai-law-insights/sort-by/sahawat.html"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"*.html, *.php",
+			"*.html",
+			"*.scss",
+			"<open files>",
+			"/Applications/MAMP/htdocs/SiPH/website/th,-*.html",
+			"/Applications/MAMP/htdocs/SiPH/website/vdo-360",
+			"/Applications/MAMP/htdocs/SiPH/website/kit/en/patient-services",
+			"/Applications/MAMP/htdocs/SiPH/website/kit/th,index.kit",
+			"/Applications/MAMP/htdocs/SiPH/website/kit/en",
+			"/Applications/MAMP/htdocs/SiPH/website/kit",
+			"",
+			"<open folders>",
+			"",
+			"-*.json,-*.js",
+			"-*.json, -*.js",
+			"",
+			"/Applications/MAMP/htdocs/SiPH/website/kit/th",
+			"-*.css",
+			"-*.css,-$wide-smartphone",
+			"-*.css",
+			"*.css",
+			"- smartphone",
+			"-smartphone",
+			"",
+			" ",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"expand",
+			"UA-XXXXX-X",
+			"chonma",
+			"chonmap",
+			"2008-2011 CSBC Law Offices",
+			"witida",
+			"witidam",
+			"Ratirate",
+			"rachaneekornw",
+			"anyarinj@csbc-law",
+			"amornb",
+			"amornb@csbc-law.com",
+			"amorn*@csbc-law.com",
+			"Anyarin Jiratrakulwa",
+			"<li><a href=\"amorn.html\">Amorn Bholsangngam</a></li>\n                        <li><a href=\"anyarin.html\">Anyarin Jiratrakulwat</a></li>\n\t\t\t\t\t\t<li><a href=\"aphiradee.html\">Aphiradee Kitichaichananon</a></li>\n\t\t\t\t\t\t<li><a href=\"atthawut.html\">Atthawut Rungrojkitiyos</a></li>\n\t\t\t\t\t\t<li><a href=\"chansilp.html\">Chansilp Laosiriwut</a></li>\n\t\t\t\t\t\t<li><a href=\"chatchawarl.html\">Chatchawarl Sornsurarsdr</a></li>\n                        <li><a href=\"hathaiphat.html\">Hathaiphat Lertkamonnimit</a></li>\n                        <li><a href=\"nalanta.html\">Nalanta Tonghorm</a></li>\n\t\t\t\t\t\t<li><a href=\"nawin.html\">Nawin Mansai</a></li>\n\t\t\t\t\t\t<li><a href=\"phungphong.html\">Phungphong Tunganantiganon</a></li>\n\t\t\t\t\t\t<li><a href=\"prapanpong.html\">Prapanpong Chaikhamhan</a></li>\n                        <li><a href=\"rachaneekorn.html\">Rachaneekorn Wangsuekul</a></li>\n                        <li><a href=\"ratirat.html\">Ratirat Ekjittapichet</a></li>\n\t\t\t\t\t\t<li><a href=\"sahawat.html\">Sahawat Monprasert</a></li>\n\t\t\t\t\t\t<li><a href=\"sarot.html\">Sarot Sratong</a></li>\n\t\t\t\t\t\t<li><a href=\"thanaphon.html\">Thanaphon Liwsakul</a></li>\n                        <li><a href=\"witida.html\">Witida Manitkul</a></li>",
+			"&#8220;",
+			"&#8221;",
+			"22",
+			"11",
+			"Tassanee",
+			"tassanee",
+			"840px",
+			"alt=\"China\"",
+			"icon-china",
+			"<li><img src=\"images/banner/015.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/016.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/017.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/018.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/019.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>",
+			"<li><img src=\"images/banner/008.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n        \t<li><img src=\"images/banner/009.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/010.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/011.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/012.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/013.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/014.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>",
+			"<li><img src=\"images/banner/001.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n       \t  \t<li><img src=\"images/banner/002.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n          \t<li><img src=\"images/banner/003.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/004.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n        \t<li><img src=\"images/banner/005.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/006.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/007.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>",
+			"\"skill-select.html\">Tourist",
+			"tourist.html",
+			"Tourist visa",
+			"Tourist Visa",
+			"skill select",
+			"&",
+			"testimonial-copy",
+			"testimonial",
+			"<a href=\"https://www.facebook.com/pages/I-Migration-Making-Migration-Easy/109165349100456\"><img src=\"images/icon-facebook.png\" width=\"16\" height=\"16\" alt=\"Facebook\" /></a> <a class=\"white_link\" href=\"https://www.facebook.com/pages/I-Migration-Making-Migration-Easy/109165349100456\">Our Facebook</a>",
+			"<a href=\"#\"><img src=\"images/icon-facebook.png\" width=\"16\" height=\"16\" alt=\"Facebook\" /></a> <a class=\"white_link\" href=\"#\">Our Facebook</a> / <a class=\"white_link\" href=\"useful-links.html\">Useful Links</a>",
+			"#",
+			"โทรศั",
+			"label",
+			"parent",
+			"label",
+			"parent_title",
+			"parent",
+			" class=\"full-width-form\"",
+			"ใข่",
+			"$splash-footer-height",
+			"$default-footer-total-height",
+			"$default-footer-margin-top",
+			"$default-footer-padding-top",
+			"$default-footer-height",
+			"grey-gradient",
+			"blue-gradient",
+			"yellow-gradient",
+			"$default-border-radius",
+			"$singha-font-set",
+			"$light-blue-color",
+			"$light-grey-color",
+			"$line-color",
+			"$blue-color",
+			"$brown-color",
+			"$light-yellow-color",
+			"$yellow-color",
+			"$red-color",
+			"$white-color",
+			"$black-color",
+			"ul",
+			"8px",
+			"#Demo",
+			"font-size",
+			"font-size, 48px",
+			"E-mail",
+			"lastname",
+			"input",
+			"text",
+			"a",
+			"strong",
+			"A6A8AB",
+			"top",
+			"Top",
+			"h2",
+			"2",
+			"<img class=\"logo\" src=\"images/logo-singha-r-intern.png\" alt=\"\">",
+			"text",
+			"ก่อนหน้า",
+			"#",
+			"20px",
+			"จากปณิธานให้คืนปัญญาสู่สังคมของ คุณสันติ ภิรมย์ภักดี กรรมการผู้จัด",
+			" class=\"btn\"",
+			"h3",
+			"h2",
+			"div",
+			"new-friend",
+			"<li",
+			"11px",
+			"top",
+			"$default-footer-height",
+			"fff",
+			"html",
+			"100",
+			"590",
+			"yellow",
+			"font-size",
+			"strong",
+			"h1",
+			"url('",
+			"0",
+			"{\n",
+			"<img ",
+			"png",
+			"rgba(51,51,51,1)",
+			"0",
+			"black",
+			"#333",
+			"CHANG Sans REG",
+			"url('",
+			"CHANG Sans Oblique VX",
+			"blue",
+			"h2",
+			"button",
+			"6",
+			"2",
+			"1",
+			"2",
+			"1",
+			"status_1",
+			"200px",
+			"controller"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"UA-88003638-1",
+			"2008&ndash;2014 CSBC Law Offices",
+			"alt=\"Korea\"",
+			"icon-korea",
+			"<li><img src=\"images/banner/025.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/026.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/027.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/028.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/029.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/030.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/031.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/032.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/033.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/034.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/035.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/036.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/037.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>",
+			"<li><img src=\"images/banner/013.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/014.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/015.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/016.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/017.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/018.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/019.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/020.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/021.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/022.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/023.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/024.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>",
+			"<li><img src=\"images/banner/001.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/002.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/003.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/004.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/005.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/006.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/007.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/008.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/009.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/010.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/011.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>\n            <li><img src=\"images/banner/012.jpg\" alt=\"\" width=\"275\" height=\"180\" /></li>",
+			"\"skill-select.html\">SkillSelect",
+			"skill-select.html",
+			"<a class=\"white_link\" href=\"https://www.facebook.com/pages/I-Migration-Making-Migration-Easy/109165349100456\"><img src=\"images/icon-facebook.png\" width=\"16\" height=\"16\" alt=\"Facebook\" /> Our Facebook</a>",
+			"<a href=\"https://www.facebook.com/pages/I-Migration-Making-Migration-Easy/109165349100456\"><img src=\"images/icon-facebook.png\" width=\"16\" height=\"16\" alt=\"Facebook\" /></a> <a class=\"white_link\" href=\"https://www.facebook.com/pages/I-Migration-Making-Migration-Easy/109165349100456\">Our Facebook</a> / <a class=\"white_link\" href=\"useful-links.html\">Useful Links</a>",
+			"$footer-height-splash",
+			"$footer-total-height-default",
+			"$footer-margin-top-default",
+			"$footer-padding-top-default",
+			"$footer-height-default",
+			"gradient-grey",
+			"gradient-blue",
+			"gradient-yellow",
+			"$border-radius-default",
+			"$font-singha",
+			"$color-light-blue",
+			"$color-light-grey",
+			"$color-line",
+			"$color-blue",
+			"$color-brown",
+			"$color-light-yellow",
+			"$color-yellow",
+			"$color-red",
+			"$color-white",
+			"$color-black",
+			"<a href=\"main.html\"><img class=\"logo\" src=\"images/logo-singha-r-intern.png\" alt=\"Singha R Intern Logo\"></a>",
+			"",
+			"<a class=\"btn-back\" href=\"javascript:history.back();\">ย้อนกลับ / Back</a>",
+			"<a class=\"btn-back\" href=\"javascript:history.back();\">ย้อนกลับ/Back</a>",
+			"Rooms &amp; Accommodations",
+			"lang=\"en\"",
+			"<aside class=\"sidebar\">",
+			"Contact Center",
+			"/_modules/",
+			"<!-- @include modules/header.kit -->",
+			"<!-- @include modules/footer.kit -->",
+			"<ul class=\"breadcrumb\">\n\t\t\t\t\t\t\t<li><a href=\"javascript:void(0);\">บริการทางการแพทย์</a>",
+			"<a href=\"javascript:void(0);\">บริการทางการแพทย์",
+			"diagnostic-therapeutic-center.html",
+			"cardioangiography-center.html",
+			"คำถามที่พบบ่อย",
+			"$blue-color",
+			"$light-blue-color",
+			"light-blue-color",
+			"special-blue-color",
+			"dark-blue-gradient",
+			"blue-gradient",
+			"$light-blue-color",
+			"modules",
+			"($tablet",
+			"($widescreen",
+			"($desktop",
+			"$wide-smartphone",
+			"$smartphone",
+			"breakpoint",
+			"$grey-button-color",
+			"-mobile"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "brain-speakers-schedule.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7434,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3793,
+								3793
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1983.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "brain-speakers-schedule.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11083,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5236,
+								5236
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2277.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "scss/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17768,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10379,
+								10379
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 12928.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/vendor/grid.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14407,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14196,
+								14196
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "javascript"
+							},
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 12226.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 168.0
+	},
+	"pinned_build_system": "",
+	"project": "brain.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"spe",
+				"brain-speakers-schedule.html"
+			],
+			[
+				"speake",
+				"brain-speakers-schedule.php"
+			],
+			[
+				"dir",
+				"brain-director.html"
+			],
+			[
+				"grid",
+				"js/vendor/grid.js"
+			],
+			[
+				"main",
+				"scss/main.scss"
+			],
+			[
+				"speaker",
+				"brain-speakers-schedule.php"
+			],
+			[
+				".php",
+				"index.php"
+			],
+			[
+				"main.s",
+				"scss/main.scss"
+			],
+			[
+				"tax",
+				"thai-law-insights/sort-by/tax.html"
+			],
+			[
+				"priva",
+				"thai-law-insights/sort-by/private-client-practice.html"
+			],
+			[
+				"corpo",
+				"thai-law-insights/sort-by/corporate-commercial.html"
+			],
+			[
+				"pree",
+				"thai-law-insights/sort-by/preeyanuch.html"
+			],
+			[
+				"title",
+				"thai-law-insights/sort-by/title.html"
+			],
+			[
+				"isanroh",
+				"thai-law-insights/is-an-roh-in-thailand-really-a-tax-shelter.html"
+			],
+			[
+				"preeya",
+				"lawyers/preeyanuch.html"
+			],
+			[
+				"asean",
+				"thai-law-insights/sort-by/asean-economic-community-aec.html"
+			],
+			[
+				"rasing",
+				"thai-law-insights/raising-education-results-in-rising-bureaucracy.html"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"roi",
+				"thai-law-insights/is-an-roh-in-thailand-really-a-tax-shelter.html"
+			],
+			[
+				"tass",
+				"lawyers/tassanee.html"
+			],
+			[
+				"sftp",
+				"sftp-config.json"
+			],
+			[
+				"servi",
+				"services.html"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"4",
+				"457-temporary-work-visa.html"
+			],
+			[
+				"master",
+				"css/master.css"
+			],
+			[
+				"studen",
+				"student.html"
+			],
+			[
+				"touri",
+				"tourist.html"
+			],
+			[
+				"visas",
+				"visas.html"
+			],
+			[
+				"servic",
+				"services.html"
+			],
+			[
+				"regis4",
+				"register-step-4.php"
+			],
+			[
+				"regisstep",
+				"register-step-1.php"
+			],
+			[
+				"rs",
+				"register-step-1.html"
+			],
+			[
+				"test",
+				"test-guideline.php"
+			],
+			[
+				"mainphp",
+				"main.php"
+			],
+			[
+				"contac",
+				"contact.php"
+			],
+			[
+				"test-",
+				"test-complete.php"
+			],
+			[
+				"util",
+				"sass/_utils.scss"
+			],
+			[
+				"proj",
+				"project.html"
+			],
+			[
+				"project",
+				"project.php"
+			],
+			[
+				"proje",
+				"project.html"
+			],
+			[
+				"uti",
+				"sass/_utils.scss"
+			],
+			[
+				"global",
+				"sass/global.scss"
+			],
+			[
+				"conta",
+				"contact.php"
+			],
+			[
+				"index.php",
+				"index.php"
+			],
+			[
+				"cance",
+				"th/medical-services/treatment-center/cancer-center.php"
+			],
+			[
+				"_main",
+				"sass/_main.scss"
+			],
+			[
+				"find",
+				"th/medical-services/find-doctor.html"
+			],
+			[
+				"shop-s",
+				"th/patient-services/shop-services.php"
+			],
+			[
+				"thai-t",
+				"th/medical-services/thai-traditional-center.php"
+			],
+			[
+				"contact",
+				"kit/en/contact/contact.kit"
+			],
+			[
+				"eq",
+				"js/vendor/equal-height.js"
+			],
+			[
+				"shop-",
+				"kit/th/patient-services/shop-services.kit"
+			],
+			[
+				"css",
+				"kit/th/_modules/css.kit"
+			],
+			[
+				"siph-font",
+				"css/siph-font.css"
+			],
+			[
+				"news-de",
+				"kit/th/news/news-details.kit"
+			],
+			[
+				"doct",
+				"kit/th/medical-services/doctor-biography.kit"
+			],
+			[
+				"u",
+				"sass/_utils.scss"
+			],
+			[
+				"header",
+				"kit/th/_modules/header.kit"
+			],
+			[
+				"footer",
+				"kit/th/_modules/footer.kit"
+			],
+			[
+				"pedi",
+				"kit/th/medical-services/treatment-center/pediatrics-center.kit"
+			],
+			[
+				"ped",
+				"kit/th/news/health/pediatrics-disease.kit"
+			],
+			[
+				"promo",
+				"kit/th/promotion/promotion-details.kit"
+			],
+			[
+				"pro",
+				"kit/th/promotion/promotion-details.kit"
+			],
+			[
+				"foo",
+				"kit/th/_modules/footer.kit"
+			],
+			[
+				"new",
+				"kit/th/news/news-details.kit"
+			],
+			[
+				"news-detail",
+				"kit/th/news/news-details.kit"
+			],
+			[
+				"news",
+				"kit/th/news/news-activities.kit"
+			],
+			[
+				"mutua",
+				"kit/th/patient-services/mutual-clients.kit"
+			],
+			[
+				"find-",
+				"kit/th/medical-services/find-doctor.kit"
+			],
+			[
+				"plug",
+				"js/plugins.js"
+			],
+			[
+				"thai",
+				"th/medical-services/thai-traditional-center.html"
+			],
+			[
+				"plu",
+				"js/plugins.js"
+			],
+			[
+				"heade",
+				"kit/th/_modules/header.kit"
+			],
+			[
+				"foot",
+				"kit/th/_modules/footer.kit"
+			],
+			[
+				"shop",
+				"kit/th/patient-services/shop-services.kit"
+			],
+			[
+				"jquery.",
+				"js/vendor/jquery.royalslider.min.js"
+			],
+			[
+				"index.kit",
+				"kit/th/index.kit"
+			],
+			[
+				"doc",
+				"kit/th/medical-services/find-doctor.kit"
+			],
+			[
+				"head",
+				"kit/th/_modules/header.kit"
+			],
+			[
+				".kit",
+				"kit/th/patient-services/room-services/royal-suite.kit"
+			],
+			[
+				"accordion",
+				"js/vendor/jquery.accordion.js"
+			],
+			[
+				"faq",
+				"kit/th/contact/faqs.kit"
+			],
+			[
+				"advan",
+				"kit/th/medical-services/advanced-search.kit"
+			],
+			[
+				"doctor",
+				"kit/th/medical-services/doctor-biography.kit"
+			],
+			[
+				"royal-sui",
+				"kit/th/patient-services/room-services/royal-suite.kit"
+			],
+			[
+				"exe",
+				"kit/th/patient-services/room-services/executive-suite.kit"
+			],
+			[
+				"vip-suite",
+				"kit/th/patient-services/room-services/vip-suite.kit"
+			],
+			[
+				"del",
+				"kit/th/patient-services/room-services/deluxe-room.kit"
+			],
+			[
+				"style",
+				"vdo-360/includes/css/style.css"
+			],
+			[
+				"sym",
+				"kit/th/about-us/symbol.kit"
+			],
+			[
+				"",
+				"kit/th/_modules/css.kit"
+			],
+			[
+				"jquery.la",
+				"js/vendor/jquery.lazyload.min.js"
+			],
+			[
+				"foote",
+				"kit/th/_modules/footer-script.kit"
+			],
+			[
+				"royal",
+				"kit/th/patient-services/room-services/royal-suite.kit"
+			],
+			[
+				"royalsuite",
+				"vdo-360/Royal_Suite.html"
+			],
+			[
+				"css.kit",
+				"kit/th/_modules/css.kit"
+			],
+			[
+				"ipd",
+				"kit/th/medical-services/treatment-center/pediatrics-center/vaccine-ipd.kit"
+			],
+			[
+				"vac",
+				"kit/th/medical-services/treatment-center/pediatrics-center/vaccine-0-8-months.kit"
+			],
+			[
+				"vaccine-9",
+				"kit/th/medical-services/treatment-center/pediatrics-center/vaccine-9-24-months.kit"
+			],
+			[
+				"vaccine",
+				"kit/th/medical-services/treatment-center/pediatrics-center/vaccine-0-8-months.kit"
+			],
+			[
+				"room-ser",
+				"kit/th/patient-services/room-services.kit"
+			],
+			[
+				"fa",
+				"kit/th/contact/faqs.kit"
+			],
+			[
+				"kit",
+				"kit/th/_modules/css.kit"
+			],
+			[
+				"room",
+				"kit/th/patient-services/room-services.kit"
+			],
+			[
+				"mri",
+				"kit/th/medical-services/treatment-center/diagnostic-therapeutic-center/mri.kit"
+			],
+			[
+				"pe",
+				"kit/th/medical-services/treatment-center/pediatrics-center.kit"
+			],
+			[
+				"css.ki",
+				"kit/th/_modules/css.kit"
+			],
+			[
+				"dia",
+				"kit/th/medical-services/treatment-center/diagnostic-therapeutic-center.kit"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
