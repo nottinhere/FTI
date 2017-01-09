@@ -16,9 +16,6 @@
         <script src="js/vendor/modernizr-2.8.3.min.js"></script>
     </head>
     <body class="page-contact-us">
-        <!--[if lt IE 9]>
-            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-        <![endif]-->
         
         <!-- Header -->
         <header class="page-header__container">
