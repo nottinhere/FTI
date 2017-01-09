@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Contact | BRAIN การปฏิรูปธุรกิจและสร้างเครือข่ายนวัตกรรม</title>
+        <title>Contact me| BRAIN การปฏิรูปธุรกิจและสร้างเครือข่ายนวัตกรรม</title>
         <meta name="description" content="การปฏิรูปธุรกิจและสร้างเครือข่ายนวัตกรรมโดยสภาอุตสาหกรรมแห่งประเทศไทย">
         <meta name="author" content="Find.File.Fine">
 
